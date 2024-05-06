@@ -2,15 +2,7 @@ package com.example.meditationapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-<<<<<<< HEAD
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
-=======
 val TextWhite = Color(0xffeeeeee)
 val DeepBlue = Color(0xff06164c)
 val ButtonBlue = Color(0xff505cf3)
@@ -29,4 +21,4 @@ val LightGreen3 = Color(0xff11d79b)
 val BlueViolet1 = Color(0xffaeb4fd)
 val BlueViolet2 = Color(0xff9fa5fe)
 val BlueViolet3 = Color(0xff8f98fd)
->>>>>>> d32f57f (Initial commit)
+
